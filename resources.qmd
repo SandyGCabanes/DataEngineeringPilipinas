@@ -219,6 +219,9 @@ Here are a few playlists most of which are contributions by Jemar and Sandy Caba
 - [Socratica](https://youtu.be/25ovCm9jKfA?si=3szTWzBAiUXoMm6X) - Educational videos on programming and computer science.
 - [Harvard CS50’s Introduction to Programming with Python](https://youtu.be/nLRL_NcnK-4) - Full university course on programming with Python.
 
+### R for Data Analysts
+- [R for Data Analysts by Alex The Analyst](https://www.youtube.com/playlist?list=PLD6PJeq9DCgAKWucCbUIbD3vgjjwYKYRE) - From installation to Data Cleaning and Data Manipulation for Data Analysts
+
 ### Miscellaneous
 
 - [MS Fabric](https://www.youtube.com/playlist?list=PLPaNVDMhUXGYU97pdqwoaociLdwyDRn39) - Explore Microsoft’s design framework.
@@ -257,12 +260,15 @@ Here are a few playlists most of which are contributions by Jemar and Sandy Caba
 - [Mozilla Developer Network (MDN)](https://developer.mozilla.org) - Documentation and learning resources for web developers by Mozilla.
 - [Kaggle](https://www.kaggle.com) - A platform for predictive modelling and analytics competitions and datasets.
 
-## Cloud Resources
+## Cloud Resources for Projects
 
 - [AWS Training and Certification](https://aws.amazon.com/training/) - Training and certification resources for Amazon Web Services.
 - [Google Cloud Training](https://cloud.google.com/training) - Training resources for Google Cloud Platform.
 - [Microsoft Learn](https://docs.microsoft.com/en-us/learn/) - Learning resources for Microsoft technologies, including Azure.
 - [Cloud Free Tier Comparison](https://github.com/ogbinar/DataEngineeringPilipinas/tree/main/content/Cloud-Free-Tier-Comparison) - Articles comparing free tier offers from AWS, Azure, GCP, and Oracle Cloud.
+- [Free-for.dev](https://free-for.dev/#/?id=free-fordev) - A curated list of free tiers for developers.
+- [LowEndBox - Free VPS](https://lowendbox.com/blog/free-vps-word-is-spreading-fast-so-jump-on-this-now-if-you-want-it/) - Information on free Virtual Private Servers.
+- [Techweirdo - Free Tier VM, CDN, and Other Cloud Services](https://www.techweirdo.net/free-tier-vm-cdn-and-other-cloud-services-that-actually-works-for-free/#3-flyio-free-tier) - A guide to various free tier cloud services including VM and CDN.
 
 ## Open Courseware
 
