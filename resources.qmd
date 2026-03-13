@@ -189,6 +189,7 @@ Here are a few playlists most of which are contributions by Jemar and Sandy Caba
 - [Tile Stats](https://youtu.be/S51bTyIwxFs?si=6D4cROiFtPeKwMu_) - Detailed statistical analysis and education.
 - [Tina Huang](https://youtu.be/Q2mF-1yyz3g?si=ZESy1IAC5wxVRod1) - Data science tutorials, including R and Python programming.
 - [Data Analyst Bootcamp by Alex](https://www.youtube.com/playlist?list=PLUaB-1hjhk8FE_XZ87vPPSfHqb6OcM0cF) - Comprehensive bootcamp for becoming a data analyst.
+- [Data Science Projects - Thu Vu Analytics](https://www.youtube.com/@Thuvu5/playlists)
 
 ### Data Visualization and Business Intelligence
 
