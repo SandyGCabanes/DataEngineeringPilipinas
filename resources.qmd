@@ -208,7 +208,7 @@ Here are a few playlists most of which are contributions by Jemar and Sandy Caba
 
 ### Data Engineering
 
-- [YouTube Playlist on Data Engineering Projects and Courses - Data with Baraa](https://www.youtube.com/@DataWithBaraa/playlists)
+- [YouTube Playlist on Data Engineering Projects and Courses by Data with Baraa](https://www.youtube.com/@DataWithBaraa/playlists)
 - [YouTube Playlist on Data Engineering Projects](https://www.youtube.com/playlist?list=PLXRKPZRrlvE4ttHhis2CLRnOR58ojfFSS) - A curated list of video tutorials and project ideas for aspiring data engineers.
 - [Data Professor](https://youtu.be/ZZ4B0QUHuNc?si=Du6eupNNMn6NsOB5) - Insights and tutorials on data engineering practices.
 - [TechTFQ](https://youtu.be/r2QbEueaFR8?si=BJ5VO_obfvJc4Cen) - Technology-focused tutorials including data engineering topics.
