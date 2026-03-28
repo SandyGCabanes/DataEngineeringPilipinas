@@ -113,9 +113,7 @@ These are specific courses from Data Camp curated by Nicksy.
 - Hypothesis Testing in R (Advanced)
 - Exploratory Data Analysis in R (Advanced)
 
-### Globe.engineer
 
-- You can use [this](https://explorer.globe.engineer/) to generate your own custom study roadmap.
 
 ### Data Engineering 101
 
